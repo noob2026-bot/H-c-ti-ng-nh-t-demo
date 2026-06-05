@@ -1,0 +1,6 @@
+{
+  "name": "Phản Xạ Tiếng Nhật",
+  "description": "Ứng dụng trò chơi phản xạ học tiếng Nhật tối giản, dựa trên 50 bài và không sử dụng Romaji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
